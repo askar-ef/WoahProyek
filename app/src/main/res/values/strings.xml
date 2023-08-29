@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="phone_name">Samasung Galaxy</string>
+    <string name="phone_price">$599.00</string>
+    <string name="phone_desc">Versions: AM-S901B, SM-S901B/DS (International); SM-S901U (USA); SM-S901U (USA); SM-S901U1 (USA Unlocked); SM-S901W (Canada); SM-S901N (Korea)</string>
+    <string name="memory">256GB | 8GB</string>
+    <string name="camera">50 MP, f/1.8, 23mm(wide)</string>
+    <string name="bookmark">Bookmark</string>
+</resources>
